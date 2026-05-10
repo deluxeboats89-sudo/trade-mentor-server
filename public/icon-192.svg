@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="192" height="192" rx="40" fill="#04060a"/>
+  <polygon points="96,24 148,52 148,108 96,136 44,108 44,52" fill="none" stroke="#00c853" stroke-width="6"/>
+  <text x="96" y="104" text-anchor="middle" font-family="monospace" font-weight="bold" font-size="38" fill="#00c853">TM</text>
+</svg>

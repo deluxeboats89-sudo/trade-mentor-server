@@ -1,0 +1,14 @@
+{
+  "name": "Trade Mentor",
+  "short_name": "Mentor",
+  "description": "Dein persönlicher KI Trading-Coach",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#04060a",
+  "theme_color": "#04060a",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/icon-192.svg", "sizes": "192x192", "type": "image/svg+xml" },
+    { "src": "/icon-512.svg", "sizes": "512x512", "type": "image/svg+xml" }
+  ]
+}
